@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-deploy-tracker"
-  spec.version       = "0.1.1"
+  spec.version       = "0.1.2"
   spec.authors       = ["Alexandre Gomes"]
   spec.email         = ["alejdg@outlook.com.br"]
   spec.summary       = "A Lita handler to track deploys"
